@@ -1,5 +1,5 @@
 ## Proxy Consultas
-Um Painel gratis feito por Zoro!!
+`Um Painel gratis feito por Zorro!!`
 
 ## comandos:
 ```
